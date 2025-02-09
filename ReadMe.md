@@ -1,9 +1,8 @@
-# IE 201 - Intermediate Programming
-# Spring 2025
+# IE 201 - Intermediate Programming	(Spring 2025)
 
-**Type:** 			Required
+**Type:** Required
 
-**Credits/ECTS:** 	3 Credits / 6 ECTS
+**Credits/ECTS:** 3 Credits / 6 ECTS
 
 
 **Class/Laboratory/PS schedule:** 
@@ -17,15 +16,15 @@
 
 **Prerequisite(s):** 	CMPE 150 (Introduction to Programming) or equivalent. 
 
-**Course Description:**
+## Course Description
 
 The main purpose of this course is to present intermediate programming techniques including basic data structures (arrays, lists, trees, etc.) and fundamental algorithms (sorting, searching, etc.). A major emphasis will be given to object-oriented (O-O) programming in Python language, in relation to O-O Design and O-O Analysis.
 
-**Textbook(s) / other required material:**
+## Textbook(s) / other required material
 
 There is no required textbook for the class. A compilation of lecture notes will be made available via Moodle. 
 
-**Course objectives (and program outcomes):**
+## Course objectives (and program outcomes)
 
 By the completion of the course, the students will be able to;
 - Implement algorithms in Python
@@ -40,7 +39,7 @@ Considering these objectives, this course mainly addresses the following student
 - Student Outcome (e): An ability to identify, model, formulate and solve industrial engineering problems
 - Student Outcome (k): An ability to use the techniques, skills, and modern engineering tools necessary for industrial engineering practice.
 
-**Outline:**
+## Outline
 
 1. Introduction, data types, flow control, program structure
 2. Functions, parameters, default parameters, recursion
@@ -57,14 +56,15 @@ Considering these objectives, this course mainly addresses the following student
 13. Some commonly used packages (e.g. Pandas, NumPy)
 
 
-**Grading:** 
+## Grading 
 - Homework / Quiz	20%
 - Midterm (in-class)	30%
 - Project		20%
 - Final (in-class)	30%
 
 
-**Project:** 
+## Project 
+
 Preparing a term project will constitute a major portion of the expected course work. As a project, students will be responsible for 
 - writing a proposal to develop a software application in Python,
 - writing an analysis report,
